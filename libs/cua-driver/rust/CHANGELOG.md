@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.58.0](https://github.com/trycua/cua/compare/cua-driver-rs-v0.57.0...cua-driver-rs-v0.58.0) (2026-11-22)
+
+
+### Features
+
+* **cua-driver:** add agent_display, a session-owned virtual display on macOS ([#8146](https://github.com/trycua/cua/issues/8146)) ([f4b3a18](https://github.com/trycua/cua/commit/f4b3a18fcc062e406fb107fbeac8f016e59429f8))
+
 ## [0.57.0](https://github.com/trycua/cua/compare/cua-driver-rs-v0.56.9...cua-driver-rs-v0.57.0) (2026-11-21)
 
 
